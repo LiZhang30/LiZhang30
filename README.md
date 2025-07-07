@@ -2,7 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/你的GitHub数字ID?v=4" width="120" alt="avatar">
 </p>
 
-<h1 align="center">Hi, I'm Li Zhangli (张立) 👋</h1>
+<h1 align="center">Hi, I'm Li Zhang (张立) 👋</h1>
 
 <p align="center">
   <b>PhD | Researcher in Computational Chemistry & AI for Drug Discovery</b>
