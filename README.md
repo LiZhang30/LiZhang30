@@ -9,7 +9,7 @@
 
 ---
 
-I am a Postdoc at **Tsinghua University**, focusing on *AIDD*. My research interests include **field1**, **field2**, and **field3**.  
+I am a Postdoc at **Tsinghua University**, focusing on *AI4S*. My research interests include **GNN**, **Generative model**, **Generative model**, **AIDD**, and **Protein design**.  
 
 ---
 
