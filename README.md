@@ -6,7 +6,6 @@
   <a href="https://your.website.com"><img src="https://img.shields.io/badge/Website-YourName-blue?style=flat-square"></a>
   <a href="mailto:your_email@university.edu"><img src="https://img.shields.io/badge/Email-your_email@university.edu-brightgreen?style=flat-square"></a>
   <a href="https://scholar.google.com/citations?user=xxxxxxx"><img src="https://img.shields.io/badge/Google Scholar-YourName-4682B4?style=flat-square&logo=googlescholar"></a>
-  <a href="https://www.researchgate.net/profile/YourName"><img src="https://img.shields.io/badge/ResearchGate-YourName-6cc24a?style=flat-square&logo=researchgate"></a>
   <img src="https://komarev.com/ghpvc/?username=LiZhang30&style=flat-square&color=brightgreen" alt="Profile views" />
 </p>
 
