@@ -7,18 +7,14 @@
   <a href="mailto:your_email@university.edu"><img src="https://img.shields.io/badge/Email-your_email@university.edu-brightgreen?style=flat-square"></a>
   <a href="https://scholar.google.com/citations?user=xxxxxxx"><img src="https://img.shields.io/badge/Google Scholar-YourName-4682B4?style=flat-square&logo=googlescholar"></a>
   <a href="https://www.researchgate.net/profile/YourName"><img src="https://img.shields.io/badge/ResearchGate-YourName-6cc24a?style=flat-square&logo=researchgate"></a>
-  <img src="https://komarev.com/ghpvc/?username=你的GitHub用户名&style=flat-square&color=brightgreen" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=LiZhang30&style=flat-square&color=brightgreen" alt="Profile views" />
 </p>
 
 ---
 
-I am a PhD student at **Your University** (or Postdoc/PI/etc.), focusing on *your research topics* (e.g., computational chemistry, AI for drug discovery, etc.).  
-My research interests include **field1**, **field2**, and **field3**.  
-I have published papers in journals like *Journal1*, *Journal2*, *Journal3*, etc.
+I am a Postdoc at **Tsinghua University**, focusing on *AIDD*. My research interests include **field1**, **field2**, and **field3**.  
 
 ---
-
-<!-- 可以加一个简洁统计卡片和语言卡片 -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LiZhang30&show_icons=true&theme=default&hide_title=true&hide_border=true" height="145">
