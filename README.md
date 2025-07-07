@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Li Zhang (张立) 👋</h1>
 
 <p align="center">
-  <b>PhD | Researcher in Computational Chemistry & AI for Drug Discovery</b>
+  <b>PhD | Researcher in AI for Drug Discovery</b>
   <br>
   <b>博士 | 计算化学 & AI药物设计</b>
 </p>
