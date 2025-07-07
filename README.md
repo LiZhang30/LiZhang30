@@ -7,7 +7,7 @@
 <p align="center">
   <b>PhD | Researcher in AI for Drug Discovery</b>
   <br>
-  <b>博士 | 计算化学 & AI药物设计</b>
+  <b>博士 | AI药物设计</b>
 </p>
 
 <p align="center">
