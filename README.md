@@ -1,73 +1,48 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/你的GitHub数字ID?v=4" width="120" alt="avatar">
-</p>
+<!-- 个人主页简洁学术型 README 模板 -->
 
-<h1 align="center">Hi, I'm Li Zhang (张立) 👋</h1>
+<h1 align="center">Hello, I’m 你的名字! 👋</h1>
 
 <p align="center">
-  <b>PhD | Researcher in AI for Drug Discovery</b>
-  <br>
-  <b>博士 | AI药物设计</b>
-</p>
-
-<p align="center">
-  <a href="mailto:your_email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://scholar.google.com/citations?user=xxxxxxx">
-    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/你的LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://yourlabwebsite.com">
-    <img src="https://img.shields.io/badge/Lab_Website-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
-  </a>
+  <a href="https://your.website.com"><img src="https://img.shields.io/badge/Website-YourName-blue?style=flat-square"></a>
+  <a href="mailto:your_email@university.edu"><img src="https://img.shields.io/badge/Email-your_email@university.edu-brightgreen?style=flat-square"></a>
+  <a href="https://scholar.google.com/citations?user=xxxxxxx"><img src="https://img.shields.io/badge/Google Scholar-YourName-4682B4?style=flat-square&logo=googlescholar"></a>
+  <a href="https://www.researchgate.net/profile/YourName"><img src="https://img.shields.io/badge/ResearchGate-YourName-6cc24a?style=flat-square&logo=researchgate"></a>
+  <img src="https://komarev.com/ghpvc/?username=你的GitHub用户名&style=flat-square&color=brightgreen" alt="Profile views" />
 </p>
 
 ---
 
-## 👨‍🎓 教育背景 / Education
-
-- **博士/PhD**，某某大学（年份-年份），专业方向
-- **硕士/MSc**，某某大学（年份-年份），专业方向
-
----
-
-## 🧑‍🔬 研究方向 / Research Interests
-
-- 分子生成建模 / Molecular Generation
-- 蛋白质-配体对接 / Protein-Ligand Docking
-- 机器学习在药物化学中的应用 / ML in Medicinal Chemistry
-- 分子模拟、结构生物信息学
+I am a PhD student at **Your University** (or Postdoc/PI/etc.), focusing on *your research topics* (e.g., computational chemistry, AI for drug discovery, etc.).  
+My research interests include **field1**, **field2**, and **field3**.  
+I have published papers in journals like *Journal1*, *Journal2*, *Journal3*, etc.
 
 ---
 
-## 📝 代表论文 / Selected Publications
-
-- **Your Name**, et al. *Title of Your Paper*, **Journal**, Year. [[PDF](https://xxx)][[DOI](https://xxx)]
-- **Your Name**, et al. *Another Paper*, **Journal**, Year. [[PDF](https://xxx)]
-- *(更多论文请见 [Google Scholar](https://scholar.google.com/citations?user=xxxxxxx) / For full list, see [Google Scholar](https://scholar.google.com/citations?user=xxxxxxx))*
-
----
-
-## 🚀 开源项目 / Open Source Projects
-
-- [项目名1](项目链接)：一句话功能简介
-- [项目名2](项目链接)：一句话功能简介
-
----
-
-## 📫 联系方式 / Contact
-
-- 邮箱 / Email: your_email@example.com
-- 个人主页 / Homepage: [yourlabwebsite.com](https://yourlabwebsite.com)
-- Google Scholar: [link](https://scholar.google.com/citations?user=xxxxxxx)
-- ORCID: [0000-0000-0000-0000](https://orcid.org/0000-0000-0000-0000)
-
----
+<!-- 可以加一个简洁统计卡片和语言卡片 -->
 
 <p align="center">
-  <em>“Science is organized knowledge.”</em>
+  <img src="https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=default&hide_title=true&hide_border=true" height="145">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub用户名&layout=compact&theme=default&hide_border=true" height="145">
 </p>
 
+---
+
+<!-- 个人简介和研究方向部分也可以用列表结构，更突出学术气质 -->
+
+- 🎓 **Position:** PhD Student @ Your University
+- 🔬 **Research:** 研究方向1 / 研究方向2 / 研究方向3
+- 📝 **Selected publications:**  
+  - *FirstAuthor Name*, et al. **Paper Title**. *Journal Name*, Year.  
+  - …（也可以用 Google Scholar 链接代替）
+- 🌏 **Contact:** your_email@university.edu
+
+---
+
+<details>
+<summary>点击展开：个人详细介绍/代表项目/更多信息（可选）</summary>
+
+- Project 1：[链接] 简要一句话描述
+- Project 2：[链接] 简要一句话描述
+- 更多内容按需展开……
+
+</details>
