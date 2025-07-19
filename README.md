@@ -1,5 +1,3 @@
-<!-- 个人主页简洁学术型 README 模板 -->
-
 <h1 align="center">Hello, I’m Li Zhang (张立)! 👋</h1>
 
 <p align="center">
