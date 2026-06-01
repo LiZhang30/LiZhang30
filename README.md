@@ -19,7 +19,7 @@ I am a Postdoc at **Tsinghua University**, focusing on *AI4Science*. My research
 ---
 
 - 🎓 **Position:** Postdoc @ Tsinghua University
-- 🔬 **Research:** Generative model / AIDD
+- 🔬 **Research:** Generative model, AIDD
 - 🌏 **Contact:** l-z@mail.tsinghua.edu.cn
 
 ---
