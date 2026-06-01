@@ -7,14 +7,7 @@
 
 ---
 
-I am a Postdoc at **Tsinghua University**, focusing on *AIDD*. My research interests include **GNN**, **Generative model**, **Biomolecule Design**, and **Drug Design**.  
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LiZhang30&show_icons=true&theme=default&hide_title=true&hide_border=true" height="145">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiZhang30&layout=compact&theme=default&hide_border=true" height="145">
-</p>
+I am a Postdoc at **Tsinghua University**, focusing on *AIDD*. My research interests include **GNN**, **Generative model**, **Biomolecule Design**, and **Drug Design**.
 
 ---
 
