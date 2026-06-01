@@ -19,7 +19,7 @@ I am a Postdoc at **Tsinghua University**, focusing on *AIDD*. My research inter
 ---
 
 - 🎓 **Position:** Postdoc @ Tsinghua University
-- 🔬 **Research:** AIDD (GNN, Generative Model, Biomolecule Design, Drug Design)
+- 🔬 **Research:** AIDD (GNN, Generative Model, Biomolecule Design and Drug Design)
 - 🌏 **Contact:** l-z@mail.tsinghua.edu.cn
 
 ---
