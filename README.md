@@ -7,7 +7,7 @@
 
 ---
 
-I am a Postdoc at **Tsinghua University**, focusing on *AI4Science*. My research interests include **GNN**, **Generative model**, **AIDD**, and **Protein design**.  
+I am a Postdoc at **Tsinghua University**, focusing on *AIDD*. My research interests include **GNN**, **Generative model**, **AIDD**, and **Protein design**.  
 
 ---
 
