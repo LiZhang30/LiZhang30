@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I’m Li Zhang (张立)! 👋</h1>
+<h1 align="center">Hello, I’m Li Zhang (张立)</h1>
 
 <p align="center">
   <a href="https://scholar.google.com.hk/citations"><img src="https://img.shields.io/badge/Google Scholar-Li Zhang (张立)-4682B4?style=flat-square&logo=googlescholar"></a>
