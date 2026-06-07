@@ -6,6 +6,6 @@
 </p>
 
 - 🎓 **Position:** Postdoc @ Tsinghua University
-- 🔬 **Research:** AI for Drug Discovery (GNN, Generative model, Large language model)
+- 🔬 **Research:** AI for Drug Discovery (Graph neural network, Generative model, Large language model)
 - 🌏 **Contact:** l-z@mail.tsinghua.edu.cn
 
