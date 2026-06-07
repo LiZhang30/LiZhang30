@@ -6,6 +6,6 @@
 </p>
 
 - 🎓 **Position:** Postdoc @ Tsinghua University
-- 🔬 **Research:** AIDD (GNN, Generative Model, Biomolecule Design and Drug Design)
+- 🔬 **Research:** AI for Drug Discovery (GNN, Generative model, Large language model)
 - 🌏 **Contact:** l-z@mail.tsinghua.edu.cn
 
